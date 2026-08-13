@@ -1,0 +1,16 @@
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\bin\Debug\net8.0-windows\Eje2_AngelHernandezIVD17.exe
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\bin\Debug\net8.0-windows\Eje2_AngelHernandezIVD17.deps.json
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\bin\Debug\net8.0-windows\Eje2_AngelHernandezIVD17.runtimeconfig.json
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\bin\Debug\net8.0-windows\Eje2_AngelHernandezIVD17.dll
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\bin\Debug\net8.0-windows\Eje2_AngelHernandezIVD17.pdb
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\obj\Debug\net8.0-windows\Eje2_AngelHernandezIVD17.Form1.resources
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\obj\Debug\net8.0-windows\Eje2_AngelHernandezIVD17.csproj.GenerateResource.cache
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\obj\Debug\net8.0-windows\Eje2_AngelHernandezIVD17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\obj\Debug\net8.0-windows\Eje2_AngelHernandezIVD17.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\obj\Debug\net8.0-windows\Eje2_AngelHernandezIVD17.AssemblyInfo.cs
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\obj\Debug\net8.0-windows\Eje2_AngelHernandezIVD17.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\obj\Debug\net8.0-windows\Eje2_AngelHernandezIVD17.dll
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\obj\Debug\net8.0-windows\refint\Eje2_AngelHernandezIVD17.dll
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\obj\Debug\net8.0-windows\Eje2_AngelHernandezIVD17.pdb
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\obj\Debug\net8.0-windows\Eje2_AngelHernandezIVD17.genruntimeconfig.cache
+C:\Users\LABORATORIO\source\repos\Eje2_AngelHernandezIVD17\Eje2_AngelHernandezIVD17\obj\Debug\net8.0-windows\ref\Eje2_AngelHernandezIVD17.dll
